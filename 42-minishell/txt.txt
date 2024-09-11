@@ -1,0 +1,16 @@
+total 1608
+drwxr-xr-x 7 sergisan _malaga     170 Sep 11 12:02 .
+drwxr-xr-x 3 sergisan _malaga      26 Sep 11 12:02 ..
+drwxr-xr-x 4 sergisan _malaga      74 Sep 11 12:02 42-libft
+-rw-rw-r-- 1 sergisan _malaga 1572230 Jul  8 23:42 es.minishell.subject.pdf
+drwxr-xr-x 7 sergisan _malaga     147 Sep 11 12:01 .git
+-rw-rw-r-- 1 sergisan _malaga      86 Jul  8 23:42 .gitignore
+drwxr-xr-x 2 sergisan _malaga      25 Sep 11 12:01 includes
+-rw-rw-r-- 1 sergisan _malaga    1052 Aug  4 12:46 Makefile
+-rwxr-xr-x 1 sergisan _malaga   64400 Sep 11 12:02 minishell
+drwxr-xr-x 2 sergisan _malaga     273 Sep 11 12:02 obj
+drwxr-xr-x 2 sergisan _malaga     273 Sep 11 12:01 src
+-rw-rw-r-- 1 sergisan _malaga       0 Sep 11 12:02 txt.txt
+[?2004h[35m42-minishell/[0m^C[?2004l
+[35m42-minishell/[0m[?2004h[?2004l
+Exiting minishell
